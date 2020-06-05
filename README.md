@@ -7,4 +7,4 @@ git clone https://github.com/MrhackOfficial/InstagramHack.git
 cd InstagramHack
 ls
 chmod +x *
-./insta.sh
+./instatool.sh
